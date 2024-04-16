@@ -13,6 +13,7 @@ Here is the app **TODO** list:
 - [x] Create the post screen
 - [ ] Create the profile screen
 - [ ] Create the notifications screen
+- [ ] Setup Reels
 - [x] Configure likes, comments, and shares (partially done)
 - [x] Create the navigation bar
 - [x] Setup Firebase
