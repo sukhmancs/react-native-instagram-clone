@@ -9,11 +9,11 @@ Here is the app **TODO** list:
 - [x] Create the login screen
 - [x] Create the sign up screen
 - [x] Create the home screen
-- [x] Create the search screen
+- [ ] Create the search screen
 - [x] Create the post screen
-- [x] Create the profile screen
-- [x] Create the notifications screen
-- [x] Configure likes, comments, and shares
+- [ ] Create the profile screen
+- [ ] Create the notifications screen
+- [x] Configure likes, comments, and shares (partially done)
 - [x] Create the navigation bar
 - [x] Setup Firebase
 
