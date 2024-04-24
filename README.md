@@ -9,7 +9,7 @@ Here is the app **TODO** list:
 - [x] Create the login screen
 - [x] Create the sign up screen
 - [x] Create the home screen
-- [ ] Create the search screen
+- [x] Create the search screen
 - [x] Create the post screen
 - [ ] Create the profile screen
 - [ ] Create the notifications screen
