@@ -1,6 +1,6 @@
 # react-native-instagram-clone
 
-This Instagram clone app is still in development.
+This is an Instagram clone app written in React Native. 
 
 ---
 
